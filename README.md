@@ -1,4 +1,5 @@
 # Лабораторная работа №1
+[![View on GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-View%20PDF-blue?logo=github)](https://itmo-math-statistics-ls-2026.github.io/1-introduction/)
 
 ## Условие
 Дана выборка объема $n=20$. По ней необходимо:
